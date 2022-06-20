@@ -1,2 +1,1 @@
-# synchronousBallMovement
-Ball moving synchronously
+# Aprendendo sobre o banco de dados Firebase
